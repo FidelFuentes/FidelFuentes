@@ -13,7 +13,7 @@ Hello! I'm Fidel Fuentes, a 28-year-old programmer currently on the lookout for 
 ## Experience
 In 2022, I had the opportunity to share my knowledge as a JavaScript, HTML, and CSS instructor at [Vinciu Academy](https://vinciu.com/).
 
-## Projects
+## Some Projects
 - **Admin Dashboard**: Developed with React, Tailwind, and Material-UI, this dashboard includes all necessary features for administration. [View Project](https://admindashboard-production-8571.up.railway.app/)
 - **Gym Frontend**: A frontend application for a gym, built with TypeScript and React. [View Project](https://gym-frontend-ts-react-production.up.railway.app/)
 
